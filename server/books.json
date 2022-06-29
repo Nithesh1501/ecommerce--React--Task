@@ -1,0 +1,204 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "description": "The Hobbit, or There and Back Again, is a children's fantasy novel written by English author J.R.R. Tolkien. It is the first of seven planned novels in the Tolkien canon and, along with The Two Towers and The Return of the King, is one of the most popular fantasy novels ever written, sold more than 50 million copies, and has been translated into almost every major language.",
+            "pageCount": 320,
+            "ISBN": "978-0-522-37075-3",
+            "price": 399,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/710+HcoP38L.jpg"
+        },
+        {
+            "id": "2",
+            "title": "Northanger Abbey",
+            "author": "Jane Austen",
+            "description": "Northanger Abbey is a novel written by British author Jane Austen. It is set in Northanger Abbey, a nunnery in the north of England, and depicts the lives of the three main characters, the three-faced Northanger, Mrs. Northanger, and the Northanger family. The novel is also set in the fictional Northanger Abbey, a medieval abbey in the north of England, and depicts the lives of the Northanger family, including the Northanger, Mrs. Northanger, and the Northanger children, the three-faced Northanger, Mrs. Northanger, and the Northanger children.",
+            "pageCount": 704,
+            "ISBN": "978-0-523-37075-3",
+            "price": 242,
+            "coverPage": "https://m.media-amazon.com/images/I/51-k8A19NQL.jpg"
+        },
+        {
+            "id": "3",
+            "title": "The Hours",
+            "author": "Tom Wolfe",
+            "description": "The Hours is a novel by American author Tom Wolfe. It was published in the United States in 2007 and is the first book in the series The Hours. The novel is set in the American West, and follows the lives of two brothers, John and Tim, who are both in the military.",
+            "pageCount": 304,
+            "ISBN": "978-0-525-37075-3",
+            "price": 289,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/81AxQq1s0WL.jpg"
+        },
+        {
+            "id": "4",
+            "title": "The Fault in Our Stars",
+            "author": "John Green",
+            "description": "The Fault in Our Stars is a novel by John Green. It was published in 2012 and is the first book in the Green Mile series. It follows the lives of four young people in the South during the construction of the tunnel at the bottom of the Grand Canyon, and the events that led to their deaths.",
+            "pageCount": 584,
+            "ISBN": "978-0-526-37075-3",
+            "price": 99,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/817tHNcyAgL.jpg"
+        },
+        {
+            "id": "5",
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "description": "The Book Thief is a novel by American author Markus Zusak. It was published in 2007 and is the first book in the series The Book Thief. The novel is set in London, England, and follows the lives",
+            "pageCount": 432,
+            "ISBN": "978-0-528-37075-3",
+            "price": 399,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/91pZEozf9qL.jpg"
+        },
+        {
+            "id": "6",
+            "title": "A Room of One's Own",
+            "author": "Virginia Woolf",
+            "description": "A Room of One's Own is a novel by Virginia Woolf. It was published in 2002 and is the first book in the series A Room of One's Own. The novel is set in London, England, and follows the lives",
+            "pageCount": 472,
+            "ISBN": "978-0-529-37075-3",
+            "price": 749,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/81ipXkYH2VL.jpg"
+        },
+        {
+            "id": "7",
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "description": "The Catcher in the Rye is a novel by J.D. Salinger. It was published in 1951 and is the first book in the series The Catcher in the Rye. The novel is set in New York City, and follows the lives of two working class",
+            "pageCount": 535,
+            "ISBN": "978-0-721-37075-3",
+            "price": 629,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/7108sdEUEGL.jpg"
+        },
+        {
+            "id": "8",
+            "title": "The Giver",
+            "author": "Lois Lowry",
+            "description": "The Giver is a novel by American author Lois Lowry. It was published in 1990 and is the first book in the series The Giver. The novel is set in London, England, and follows the lives of two working class",
+            "pageCount": 712,
+            "ISBN": "978-0-321-37075-3",
+            "price": 309,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/51R8AA8QEVL._SX322_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": "9",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "description": "The Great Gatsby is a novel by American writer F. Scott Fitzgerald. It was published in 1925 and is the first book in the series The Great Gatsby. The novel is set in New York City, and follows the lives of a",
+            "pageCount": 722,
+            "ISBN": "978-0-921-37075-3",
+            "price": 409,
+            "coverPage": "https://m.media-amazon.com/images/I/41XMaCHkrgL.jpg"
+        },
+        {
+            "id": "10",
+            "title": "Hamlet, Prince of Denmark",
+            "author": "William Shakespeare",
+            "description": "Hamlet, Prince of Denmark is a tragedy written by William Shakespeare. It is the first play in the English tragedy genre and is set in Denmark, and follows the lives of a young prince and his father, King Hamlet.",
+            "pageCount": 342,
+            "ISBN": "978-0-121-37075-3",
+            "price": 809,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/51k+zYUMNhL._SX351_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": "11",
+            "title": "Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "description": "The Lord of the Rings is a fantasy novel by English author J.R.R. Tolkien. It is the first of seven planned novels in the Tolkien canon and, along with The Two Towers and The Return of the King, is one of the most popular fantasy novels ever written, sold more than 50 million copies, and has been translated into almost every major language.",
+            "pageCount": 912,
+            "ISBN": "978-0-221-37075-3",
+            "price": 579,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/51kfFS5-fnL._SX332_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": "12",
+            "title": "Mrs. Dalloway",
+            "author": "Virginia Woolf",
+            "description": "Mrs. Dalloway is a novel by Virginia Woolf. It was published in 2002 and is the first book in the series A Room of One's Own. It follows the lives of four young people in the South during the construction of the tunnel at the bottom of the Grand Canyon, and the events that led to their deaths.",
+            "pageCount": 672,
+            "ISBN": "978-7-521-37075-3",
+            "price": 619,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/51iE55v+wML._SX331_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": "13",
+            "title": "Spirit and Souls",
+            "author": "Virginia Woolf",
+            "description": "Spirit and Souls is a novel by Virginia Woolf. It was published in 2002 and is the first book in the series A Room of One's Own. It follows the lives of four young people in the South during the construction of the tunnel at the bottom of the Grand Canyon, and the events that led to their deaths.",
+            "pageCount": 672,
+            "ISBN": "978-7-521-73075-5",
+            "price": 619,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/71-RGRzelUL.jpg"
+        },
+        {
+            "id": "14",
+            "title": "Tom Sawyer",
+            "author": "Mark Twain",
+            "description": "Tom Sawyer is a novel by Mark Twain. It is the first book in the series Tom Sawyer and is published in 1876. The novel is set in New York City.",
+            "pageCount": 456,
+            "ISBN": "978-4-521-37075-3",
+            "price": 519,
+            "coverPage": "https://m.media-amazon.com/images/I/51Y5YN1QBZL.jpg"
+        },
+        {
+            "id": "15",
+            "title": "Bleak House",
+            "author": "Charles Dickens",
+            "description": "Bleak House is a novel by Charles Dickens. It is the first book in the series Bleak House and is published in 1852. The novel is set in London, England, and follows the lives of a young orphan named Oliver and his parents.",
+            "pageCount": 765,
+            "ISBN": "978-6-521-37075-3",
+            "price": 789,
+            "coverPage": "https://m.media-amazon.com/images/I/61KXodXjmHL.jpg"
+        },
+        {
+            "id": "16",
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "description": "Harry Potter and the Sorcerer's Stone is a fantasy novel written by British author J.K. Rowling. It is the first novel in the Harry Potter series and Rowling's debut novel, first published in 1997. The novel follows Harry Potter, a young wizard who discovers his magical heritage on a trip to England for the purpose of study at the Hogwarts School of Witchcraft and Wizardry, where he meets a series of characters who become his friends.",
+            "pageCount": 815,
+            "ISBN": "978-0-521-32075-3",
+            "price": 529,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/51ys8L7hNQL._SX329_BO1,204,203,200_.jpg"
+        },
+        {
+            "id": "17",
+            "title": "Harry Potter and the Chamber of Secrets",
+            "author": "J.K. Rowling",
+            "description": "Harry Potter and the Chamber of Secrets is a fantasy novel written by British author J.K. Rowling. It is the second novel in the Harry Potter series and Rowling's second novel, published in 1998. The novel follows Harry Potter, a young wizard who is summoned to a school for wizards by his father and a series of mysterious objects that Harry must discover to help him find his real friends and family in the wizarding world of wizardry, which Harry is drawn into for his eleventh year at Hogwarts School of Witchcraft and Wizardry.",
+            "pageCount": 295,
+            "ISBN": "978-0-521-31075-3",
+            "price": 259,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/91HHqVTAJQL.jpg"
+        },
+        {
+            "id": "18",
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "author": "J.K. Rowling",
+            "description": "Harry Potter and the Prisoner of Azkaban is a fantasy novel written by British author J.K. Rowling. It is the third novel in the Harry Potter series and Rowling's third novel, published in 1999. The novel follows Harry Potter, a young wizard who is taken prisoner by the wizard Lord Voldemort, and his friends and his lover, and his fifth year at Hogwarts School of Witchcraft and Wizardry.",
+            "pageCount": 953,
+            "ISBN": "978-0-521-39075-3",
+            "price": 789,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/81EbEWM54ML.jpg"
+        },
+        {
+            "id": "19",
+            "title": "Rise of the Phoenix",
+            "author": "Robert Jordan",
+            "description": "Rise of the Phoenix is a fantasy novel by American author Robert Jordan. It is the first book in the series Rise of the Phoenix and is published in 2004. The novel is set in the fantasy world of the Warcrafts, a fantasy world in which the characters of the series are alive.",
+            "pageCount": 742,
+            "ISBN": "978-0-521-30075-3",
+            "price": 459,
+            "coverPage": "https://images-eu.ssl-images-amazon.com/images/I/51qcQQrDrpL._SX342_SY445_QL70_ML2_.jpg"
+        },
+        {
+            "id": "20",
+            "title": "Fantastic Beasts and Where to Find Them",
+            "author": "J.K. Rowling",
+            "description": "Fantastic Beasts and Where to Find Them is a fantasy novel written by British author J.K. Rowling. It is the fifth novel in the Harry Potter series and Rowling's fifth novel, published in 2005. The novel follows the adventures of the magically-named \"Fantastic Beasts,\" a group of young wizards who, after being attacked by a monster named \"Lord Voldemort,\" fled to the United States, only to be followed by a group of very-magical-looking, flying cars. The story follows Harry Potter, a young wizard who is initially reluctant to accept the role of a wizard, but eventually accepts it and is drawn into the world of wizardry, where he meets a number of friends and enemies.",
+            "pageCount": 859,
+            "ISBN": "978-0-521-32975-3",
+            "price": 569,
+            "coverPage": "https://images-na.ssl-images-amazon.com/images/I/91ZdH-fVIRL.jpg"
+        }
+    ]
+}
